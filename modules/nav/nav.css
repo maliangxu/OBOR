@@ -1,0 +1,11 @@
+#title{position:relative;left:38px;top:24px;font-size:28px;color:#439f55;}
+#logWin{position:absolute;right:34px;top:25px;width: 110px;height: 40px;border-radius: 15px;background-color: #dedede;}
+.logBtn{position:absolute;font-size: 14px;color:#666;top:9px;cursor:pointer;}
+.logBtn:hover{opacity: .6;}
+#log{left:18px;}
+#sign_up{right: 18px;}
+#log_cut{position:relative;top:8px;bottom:8px;left:55px;width: 1px;height: 24px;background-color: #bcbcbc;}
+
+@media (max-width: 1100px){
+	#title{top:26px;font-size:26px;}
+}
